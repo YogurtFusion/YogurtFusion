@@ -1,5 +1,33 @@
 Hi there 👋
 
+
+GitHub profile: YogurtFusion
+
+⚡ Fun fact
+
+I obsess over tiny UX details — a smoother microinteraction makes me irrationally happy.
+
+🚀 My GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YogurtFusion&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogurtFusion&layout=compact&theme=tokyonight" alt="Top languages" height="150"/> </p>
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="tech stack icons" /> </p>
+
+<!--
+**YogurtFusion/YogurtFusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
 I’m YogurtFusion — a curious web-dev-in-training who codes like coffee fuels neurons: messy, effective, and surprisingly productive.
 I build web stuff, learn fast, and use AI as my co-pilot (not my crutch).
 
@@ -36,29 +64,3 @@ How to blend AI into your workflow without losing learning signal.
 📫 How to reach me
 
 Open an issue or PR on this repo — I check those first.
-
-GitHub profile: YogurtFusion
-
-⚡ Fun fact
-
-I obsess over tiny UX details — a smoother microinteraction makes me irrationally happy.
-
-🚀 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YogurtFusion&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogurtFusion&layout=compact&theme=tokyonight" alt="Top languages" height="150"/> </p>
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="tech stack icons" /> </p>
-
-<!--
-**YogurtFusion/YogurtFusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
