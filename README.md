@@ -25,40 +25,57 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 🧠 Hey, I’m YogurtFusion  
 
-I’m YogurtFusion — a curious web-dev-in-training who codes like coffee fuels neurons: messy, effective, and surprisingly productive.
-I build web stuff, learn fast, and use AI as my co-pilot (not my crutch).
+A curious web-dev-in-training who codes like caffeine powers creativity — a little chaotic, very effective, and somehow always gets it done.  
 
-🔭 What I’m working on
+I build web things, learn fast, and treat AI like a co-pilot — not a crutch.  
 
-Polishing a portfolio of small, real-world projects (responsive UIs, accessible components, audio players).
+---
 
-Preparing for web dev internships: focus on  Git, React, MongoDB and practical use of AI to speed up workflows.
+## 🔭 What I’m Working On  
 
-🌱 What I’m learning
+- Polishing a portfolio of small, real-world projects (responsive UIs, accessible components, and audio players that *actually* work).  
+- Prepping for web dev internships — sharpening skills in **Git**, **React**, **MongoDB**, and using **AI** to speed up (not skip) the work.  
 
-Modern front-end: semantic HTML, CSS Grid/Flex, accessibility, and modular JS.
+---
 
-Build tools & Git workflows that don’t make me cry.
+## 🌱 What I’m Learning  
 
-👯 Looking to collaborate on
+- **Front-end:** React, Tailwind, accessibility, and modular JavaScript that doesn’t break when you blink.  
+- **Back-end:** MongoDB + Next.js basics for a smooth full-stack flow.  
+- **Tooling:** Git workflows and build tools that don’t make me want to scream into the void.  
 
-Small web apps, UI components, and music/media player features.
+---
 
-Projects where I can learn backend basics (Node/Express) or improve full-stack understanding.
+## 👯 Open to Collaborate On  
 
-🤔 Where I need help
+- Small, purposeful web apps and reusable UI components.  
+- Music/media player projects or anything that helps me flex backend muscles (Node/Express, I’m looking at you).  
 
-Real-world project reviews (code, accessibility, performance).
+---
 
-Interview prep and guidance on getting that first internship.
+## 🤔 I’d Love Help With  
 
-💬 Ask me about
+- Real-world project feedback — code reviews, accessibility, performance tips.  
+- Internship prep: technical interviews, portfolio reviews, you name it.  
 
-Front-end debugging, responsive layout quirks, CSS Grid > Flex when used right.
+---
 
-How to blend AI into your workflow without losing learning signal.
+## 💬 Ask Me About  
 
-📫 How to reach me
+- Front-end debugging, layout quirks, and why **CSS Grid > Flexbox** when you know what you’re doing.  
+- How to integrate AI into your workflow *without* letting it do all your thinking for you.  
 
-Open an issue or PR on this repo — I check those first.
+---
+
+## 📫 Reach Me  
+
+📧 **Email:** [Aniketkumar33805@outlook.com](mailto:Aniketkumar33805@outlook.com)  
+💼 **LinkedIn:** [linkedin.com/in/aniketattech](https://www.linkedin.com/in/aniketattech)  
+🐦 **X (Twitter):** [@AniketAtTech](https://x.com/AniketAtTech)  
+💻 **GitHub:** [github.com/YogurtFusion](https://github.com/YogurtFusion)
+
+---
+
+⭐️ *If you vibe with my projects, drop a star — it keeps my caffeine levels stable and my motivation dangerously high.*
