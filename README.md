@@ -7,11 +7,9 @@ I build web stuff, learn fast, and use AI as my co-pilot (not my crutch).
 
 Polishing a portfolio of small, real-world projects (responsive UIs, accessible components, audio players).
 
-Preparing for web dev internships: focus on HTML/CSS, JavaScript, Git, and practical use of AI to speed up workflows.
+Preparing for web dev internships: focus on  Git, React, MongoDB and practical use of AI to speed up workflows.
 
 🌱 What I’m learning
-
-Core CS fundamentals: OOP, data structures, recursion, algorithm analysis — the 20% that gives 80% of results.
 
 Modern front-end: semantic HTML, CSS Grid/Flex, accessibility, and modular JS.
 
