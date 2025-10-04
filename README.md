@@ -1,8 +1,5 @@
 Hi there 👋
 
-
-GitHub profile: YogurtFusion
-
 ⚡ Fun fact
 
 I obsess over tiny UX details — a smoother microinteraction makes me irrationally happy.
