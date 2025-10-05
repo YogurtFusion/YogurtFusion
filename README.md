@@ -1,6 +1,22 @@
-Hi there 👋
+Hey Visitor 👋
+**YogurtFusion/YogurtFusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- -->
+Here are some ideas to get you started:
 
-⚡ Fun fact
+- 🔭 I’m currently working on Solim
+- 🌱 I’m currently learning React , Next.js, MongoDB , ML & DSA
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with AI & ML, DSA & Full stack  
+- 💬 Ask me about Full stack 
+- 📫 How to reach me:
+📧 **Email:** [Aniketkumar33805@outlook.com](mailto:Aniketkumar33805@outlook.com)  
+💼 **LinkedIn:** [linkedin.com/in/aniketattech](https://www.linkedin.com/in/aniketattech)  
+🐦 **X (Twitter):** [@AniketAtTech](https://x.com/AniketAtTech)  
+💻 **GitHub:** [github.com/YogurtFusion](https://github.com/YogurtFusion)
+
+---
+- 😄 Pronouns: He/him
+- ⚡ Fun fact
 
 I obsess over tiny UX details — a smoother microinteraction makes me irrationally happy.
 
@@ -11,19 +27,6 @@ I obsess over tiny UX details — a smoother microinteraction makes me irrationa
   <img src="https://skillicons.dev/icons?i=react,tailwindcss,bootstrap,mongodb,html,css,js,git,github,vscode" alt="tech stack icons" />
 </p>
 
-**YogurtFusion/YogurtFusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # 🧠 Hey, I’m YogurtFusion  
 
