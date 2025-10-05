@@ -1,18 +1,17 @@
 Hey Visitor 👋
 
 - 🔭 I’m currently working on Solim
-- 🌱 I’m currently learning React , Next.js, MongoDB , ML & DSA
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning React , Next.js, MongoDB , AI & ML & DSA
+- 👯 I’m looking to collaborate on FULL stack & AI & ML
 - 🤔 I’m looking for help with AI & ML, DSA & Full stack  
-- 💬 Ask me about Full stack 
+- 💬 Ask me about Full stack & ML
 - 📫 How to reach me:
 📧 **Email:** [Aniketkumar33805@outlook.com](mailto:Aniketkumar33805@outlook.com)  
 💼 **LinkedIn:** [linkedin.com/in/aniketattech](https://www.linkedin.com/in/aniketattech)  
 🐦 **X (Twitter):** [@AniketAtTech](https://x.com/AniketAtTech)  
 💻 **GitHub:** [github.com/YogurtFusion](https://github.com/YogurtFusion)
-
----
 - 😄 Pronouns: He/him
+- ---
 - ⚡ Fun fact
 
 I obsess over tiny UX details — a smoother microinteraction makes me irrationally happy.
