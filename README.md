@@ -27,7 +27,7 @@ I obsess over tiny UX details — a smoother microinteraction makes me irrationa
   <img src="https://skillicons.dev/icons?i=react,tailwindcss,bootstrap,mongodb,html,css,js,git,github,vscode" alt="tech stack icons" />
 </p>
 
-
+<!--
 # 🧠 Hey, I’m YogurtFusion  
 
 A curious web-dev-in-training who codes like caffeine powers creativity — a little chaotic, very effective, and somehow always gets it done.  
@@ -82,3 +82,4 @@ I build web things, learn fast, and treat AI like a co-pilot — not a crutch.
 ---
 
 ⭐️ *If you vibe with my projects, drop a star — it keeps my caffeine levels stable and my motivation dangerously high.*
+-->
