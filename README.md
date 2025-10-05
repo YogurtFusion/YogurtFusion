@@ -16,12 +16,15 @@ Hey Visitor 👋
 
 I obsess over tiny UX details — a smoother microinteraction makes me irrationally happy.
 
+🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwindcss,bootstrap,mongodb,html,css,js,git,github,vscode,figma,postman" alt="tech stack icons" />
+</p>
+
+
 🚀 My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YogurtFusion&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogurtFusion&layout=compact&theme=tokyonight" alt="Top languages" height="150"/> </p>
-🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwindcss,bootstrap,mongodb,html,css,js,git,github,vscode" alt="tech stack icons" />
-</p>
+
 
 <!--
 # 🧠 Hey, I’m YogurtFusion  
