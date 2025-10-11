@@ -9,7 +9,7 @@ Hey Visitor 👋
 📧 **Email:** [Aniketkumar33805@outlook.com](mailto:Aniketkumar33805@outlook.com)  
 💼 **LinkedIn:** [linkedin.com/in/aniketattech](https://www.linkedin.com/in/aniketattech)  
 🐦 **X (Twitter):** [@AniketAtTech](https://x.com/AniketAtTech)  
-💻 **GitHub:** [https://t.me/Heyya70](https://t.me/Heyya70)
+💻 **Telegram:** [https://t.me/Heyya70](https://t.me/Heyya70)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 
 I obsess over tiny UX details — a smoother microinteraction makes me irrationally happy.
