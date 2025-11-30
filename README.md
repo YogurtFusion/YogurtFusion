@@ -1,6 +1,6 @@
 Hey Visitor 👋
 
-- 🔭 I’m currently working on Solim
+- 🔭 I’m currently working on Yellow Glow Studios
 - 🌱 I’m currently learning React , Next.js, MongoDB ,Gen AI & DSA
 - 👯 I’m looking to collaborate on FULL stack & AI & ML
 - 🤔 I’m looking for help with AI & ML, DSA & Full stack  
