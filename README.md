@@ -22,7 +22,8 @@ I obsess over tiny UX details — a smoother microinteraction makes me irrationa
 
 
 - ---
+<!-- 
 🚀 My GitHub Stats
 <p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogurtFusion&layout=compact&theme=tokyonight" alt="Top languages" height="150"/> </p>
 
-
+-->
