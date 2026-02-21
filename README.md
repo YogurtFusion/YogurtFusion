@@ -1,6 +1,6 @@
 Hey Visitor 👋
 
-- 🔭 I’m currently working on Yellow Glow Studios
+- 🔭 I’m currently working on Website design and development 
 - 🌱 I’m currently learning React , Next.js, MongoDB ,Gen AI & DSA
 - 👯 I’m looking to collaborate on FULL stack & AI & ML
 - 🤔 I’m looking for help with AI & ML, DSA & Full stack  
@@ -8,8 +8,7 @@ Hey Visitor 👋
 - 📫 How to reach me:
 📧 **Email:** [Aniketkumar33805@outlook.com](mailto:Aniketkumar33805@outlook.com)  
 💼 **LinkedIn:** [linkedin.com/in/aniketattech](https://www.linkedin.com/in/aniketattech)  
-🐦 **X (Twitter):** [@AniketAtTech](https://x.com/AniketAtTech)  
-💻 **Telegram:** [https://t.me/Heyya70](https://t.me/Heyya70)
+🐦 **X (Twitter):** [@AniketAtTech](https://x.com/AniketAtTech) 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 
 I obsess over tiny UX details — a smoother microinteraction makes me irrationally happy.
